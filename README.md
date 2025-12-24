@@ -166,7 +166,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ## 👤 Author
 **K Keerthi**  
-Data Science Engineering Student
+Data Science Engineering Student <br>
 Aspiring Python Developer / Data Analyst
  
 
@@ -179,4 +179,5 @@ Aspiring Python Developer / Data Analyst
   <br>
   <a href="#-the-vault">Back to Top</a>
 </p>
+
 
