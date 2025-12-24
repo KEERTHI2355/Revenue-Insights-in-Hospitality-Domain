@@ -1,4 +1,10 @@
 # 🏨 Revenue Insights in the Hospitality Domain
+### Provides insights using KPI's, Charts, Measures and others on the hospitality data.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📌 Project Overview
 This project focuses on analyzing **revenue performance, occupancy trends, booking behavior, and customer ratings** in the hospitality industry using **Power BI**.
@@ -151,18 +157,26 @@ All KPIs are calculated using **DAX measures** following hospitality industry st
 
 
 ## 💼 Resume Bullet (You Can Use This)
-> Built an end-to-end **Hospitality Revenue Insights Dashboard** using Power BI, analyzing occupancy, ADR, RevPAR, booking behavior, and cancellation impact across multiple cities and hotel categories using DAX and star schema modeling.
+Built an end-to-end **Hospitality Revenue Insights Dashboard** using Power BI, analyzing occupancy, ADR, RevPAR, booking behavior, and cancellation impact across multiple cities and hotel categories using DAX and star schema modeling.
 
 
-
-## Licence
+## 📄 Licence
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 
 ## 👤 Author
-**Keerthi Shetty**  
+**K Keerthi**  
 Data Science Engineering Student
 Aspiring Python Developer / Data Analyst
  
 
 ⭐ If you find this project helpful, feel free to star the repository!
+
+---
+
+<p align="center">
+  🛠 Built by <a href="https://github.com/KEERTHI2355">@Keerthi2355</a> 
+  <br>
+  <a href="#-the-vault">Back to Top</a>
+</p>
+
